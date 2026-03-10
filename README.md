@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center">Software Developer / Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PRANJAL_SINGH_19&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=PRANJAL-SINGH-19&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
