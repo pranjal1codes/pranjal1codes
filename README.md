@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Pranjal+Singh+👋;Software+Engineer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+Pranjal+Singh+%F0%9F%91%8B;Software+Engineer;Tech+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZ3a2VtcjRjeTFsNm9kcHA0ZnRsNnc1YjgzZ2kzZXd3YjZ2c2FqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9RnJWRWoiRZlHgaHa/giphy.gif" width="300" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/S9RnJWRWoiRZlHgaHa/giphy.gif" width="300" alt="Coding GIF" />
 </p>
 
 <!--<h3 align="center"></h3>
