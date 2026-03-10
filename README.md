@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggZd3pbvG/giphy.gif" width="300" alt="Coding GIF" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZ3a2VtcjRjeTFsNm9kcHA0ZnRsNnc1YjgzZ2kzZXd3YjZ2c2FqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9RnJWRWoiRZlHgaHa/giphy.gif" width="300" alt="Coding GIF" />
 </p>
 
 <!--<h3 align="center"></h3>
