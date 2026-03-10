@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium" alt="Pranjal's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PRANJAL-SINGH-19&show_icons=true&theme=radium" alt="Pranjal's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium" alt="Pranjal's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRANJAL-SINGH-19&theme=radium" alt="Pranjal's GitHub streak" />
 </p>
 
 ---
